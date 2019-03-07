@@ -11,7 +11,3 @@ target =+ num; // Noncompliant; target = 3
     }
 }
 
-public boolean equals(Object obj) {
-  MyClass mc = (MyClass)obj;  // Noncompliant
-  // ...
-}
