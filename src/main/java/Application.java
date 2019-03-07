@@ -8,7 +8,7 @@ public class Application {
         target = +num; // Noncompliant; target = 3
         System.out.println("simp            tg");
         System.out.println("taaa aaadffg");
-
+        System.out.println("jkkkkkkkkkkkkkkkkkk");
     }
 
     public void test(Object obj){
