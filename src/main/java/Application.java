@@ -10,3 +10,8 @@ target =+ num; // Noncompliant; target = 3
         System.out.println("taaa  ssss  aaadffg");
     }
 }
+
+public boolean equals(Object obj) {
+  MyClass mc = (MyClass)obj;  // Noncompliant
+  // ...
+}
