@@ -7,7 +7,7 @@ public class Application {
         target = -num;  // Noncompliant; target = -3. Is that really what's meant?
         target = +num; // Noncompliant; target = 3
         System.out.println("simp            tg");
-        System.out.println("taaa  ssss  aaadffg");
+        System.out.println("taaa aaadffg");
 
     }
 
